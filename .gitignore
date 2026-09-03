@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Hugging Face / ML caches
+.cache/
+huggingface/
+**/.cache/
+**/huggingface/
+
+# Model files
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Temporary files
+tmp/
+temp/

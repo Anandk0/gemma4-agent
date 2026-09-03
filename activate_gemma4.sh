@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH="/opt/conda/envs/gemma4/lib/python3.10/site-packages/nvidia/cudnn/lib:/opt/conda/envs/gemma4/lib/python3.10/site-packages/nvidia/cublas/lib:/opt/conda/envs/gemma4/lib/python3.10/site-packages/nvidia/cuda_runtime/lib:${LD_LIBRARY_PATH}"
