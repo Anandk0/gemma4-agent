@@ -36,3 +36,6 @@ huggingface/
 # Temporary files
 tmp/
 temp/
+
+# Test audio
+*.wav
